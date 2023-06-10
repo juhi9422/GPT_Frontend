@@ -1,0 +1,7 @@
+.sidebar_main{
+    width: 25vw;
+    background-color: black;
+    height: 100vh;
+    overflow: hidden;
+    padding-top: 200px;
+}
